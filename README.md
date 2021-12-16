@@ -1,0 +1,2 @@
+# siempreVuelvesACaerNotPuedeEconder
+Hoy me textea "Quiero verte" (Verte) Mañana que me desea la muerte (Muerte) Un día me dice "Fuck you" (Fuck you) Y al otro día me escribe "I love you" Hijueputa, ¿qué e' esta mierda? Paciencia diminuta, no tiene' nada cuerda (Uah) Problemática, no coge esa (Esa) Y nos dimo' un par de cerveza Crema Victoria con sabor a fresa (Fresa) Un pecado que no se confiesa Baby, tú ere' un caso y pa' mí e' la huesa Tú ere' la falla en la controversia Tú ere' la cura que a mí me enferma Tú ere' el viru' en la pandemia (Uah)
