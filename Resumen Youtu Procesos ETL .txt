@@ -1,0 +1,24 @@
+PROCESOS ETL 
+
+ETL Extract Transform Load 
+Extraer Transformar y Cargas 
+
+Son proceso que extraen informacion la transforman para posteriormente 
+cargarlas en un datamart o un datawarehouse. 
+
+DataWarehouse Almacen de informacion gigante (Logico)
+Lugar donde se almacena la info 
+
+un Datamart es un subAlmacen de informacion que tiene informacion especializada
+especifica , ejemplo Recursos humanos 
+
+Datamart info especifica de un datawarehouse. 
+
+Motivo de los procesos etl 
+
+Generar un datamart apartir de un datawarehouse 
+Generar informacion sumarisada, agregada para de esta manera generar informacion 
+a futuro. 
+
+Generar KPIS , Key performance indicators osea medidores de desempenio 
+o indicador clave de rendimiento.
